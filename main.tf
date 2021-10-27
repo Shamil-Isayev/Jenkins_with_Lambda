@@ -120,7 +120,7 @@ resource "aws_lambda_function" "lambda_function" {
 
 resource "aws_security_group" "lambda_vpn-sg" {
   name        = local.sg_name
-  description = "V_P_N"
+  description = "V_PN"
   vpc_id      = "vpc-087b4e0167a2591a9"
 
 
