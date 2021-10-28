@@ -107,7 +107,7 @@ resource "aws_lambda_function" "lambda_function" {
 
     environment {
         variables={
-            MY_CONSTANT = "Kebab_lover"
+            MY_CONSTANT = "Kebab_fan"
             SQS_URL = aws_sqs_queue.terraform_sqs.url
         }
     }
