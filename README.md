@@ -11,6 +11,7 @@ Pipeline must be created with Jenkins
   Docker on ECS
 Ensure that only logged users can see content
 How you organize the CI/CD is up to you
+
 Create two environments
   QA
   Prod
