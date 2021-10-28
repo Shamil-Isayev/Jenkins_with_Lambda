@@ -12,7 +12,7 @@ Docker on ECS
 Ensure that only logged users can see content
 How you organize the CI/CD is up to you
 Create two environments
-QA
-Prod
+  QA
+  Prod
 You can use Github, Codecommit, as you wish
 
